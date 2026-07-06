@@ -1,16 +1,20 @@
 
-🇧🇷 Este repositório contém uma coleção de scripts em Python focados na resolução de problemas de física, matemática financeira, álgebra, trigonometria e na geração de malhas gráficas (como folhas quadriculadas e monolog).
+🇧🇷 Este repositório contém uma coleção de scripts em Python focados na resolução de problemas de Engenharia, física, matemática financeira, álgebra, trigonometria e na geração de malhas gráficas (como folhas quadriculadas e monolog).
 Descrição dos Arquivos:
 
+    OcupaçãoEletrocalhaV2: Aplicação com interface grafica que calcula taxa de ocupação de eletrocalhas conforme suas dimensões, quantidade de cabos nos circuitos, seção e isolação dos condutores.
+
+    MotorVelocidade.py: Aplicação para calculo de velocidade de rotação de motores sincronos conforme frequencia e numero de polos
+        
     Baskara.py: Script para resolver equações do segundo grau utilizando a Fórmula de Bhaskara. Calcula as raízes reais ou complexas a partir dos coeficientes a, b e c.
 
-    CossenosTriangulos.py / LeiCossenos.py: Aplicação da Lei dos Cossenos para determinar lados ou ângulos desconhecidos em triângulos quaisquer (não retângulos).
+    AngulosCossenosTriangulos.py / LeiCossenos.py: Aplicação da Lei dos Cossenos para determinar lados ou ângulos desconhecidos em triângulos quaisquer (não retângulos).
 
-    Escala Richter.py: Script que utiliza equações logarítmicas para calcular a magnitude ou a energia liberada por um terremoto na Escala Richter.
+    EscalaRichter.py: Script que utiliza equações logarítmicas para calcular a magnitude ou a energia liberada por um terremoto na Escala Richter.
 
     FolhaMonoLog.py: Script gerador de gráficos ou malhas em escala monologarítmica (um eixo linear e um logarítmico), muito útil para engenharia e análise de funções exponenciais.
 
-    FolhaQuadriculaV1.py: Script para gerar imagens de folhas quadriculadas personalizadas, ideal para impressão ou fundo de exercícios geométricos.
+    FolhaQuadriculadaV1.py: Script para gerar imagens de folhas quadriculadas personalizadas, ideal para impressão ou fundo de exercícios geométricos.
 
     Funcoes.py: Arquivo auxiliar com funções matemáticas genéricas e ferramentas modulares reutilizadas pelos demais scripts.
 
@@ -32,6 +36,10 @@ Para que esses scripts funcionem (inclusive no celular pelo Pydroid 3), as princ
 
 🇺🇸 This repository contains a collection of Python scripts focused on solving physics problems, financial mathematics, algebra, trigonometry, and generating custom graph templates (such as checkered and semi-log sheets).
 Files Description:
+
+    OcupaçãoEletrocalhaV2: Application with a graphical interface that calculates cable tray fill rates based on dimensions, the number of circuit cables, and conductor cross-section and insulation.
+
+    MotorVelocidade.py: Application for calculating the rotational speed of synchronous motors based on frequency and the number of poles.
 
     Baskara.py: A script to solve quadratic equations using Bhaskara's formula. It calculates real or complex roots based on a, b, and c coefficients.
 
